@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/thustlincrazyy/DSA/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/thustlincrazyy/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/thustlincrazyy/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/thustlincrazyy/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/thustlincrazyy/DSA/tree/master/0049-group-anagrams) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/thustlincrazyy/DSA/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
