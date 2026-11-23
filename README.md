@@ -4,16 +4,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/thustlincrazyy/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/thustlincrazyy/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/thustlincrazyy/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/thustlincrazyy/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/thustlincrazyy/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/thustlincrazyy/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/thustlincrazyy/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/thustlincrazyy/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/thustlincrazyy/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
@@ -36,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/thustlincrazyy/DSA/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/thustlincrazyy/DSA/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
