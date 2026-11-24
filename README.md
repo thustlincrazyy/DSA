@@ -48,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/thustlincrazyy/DSA/tree/master/0031-next-permutation) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/thustlincrazyy/DSA/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
